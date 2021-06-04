@@ -1,1 +1,1 @@
-# hodor
+*This is a new repository for optional project hodor of Holberton school*
